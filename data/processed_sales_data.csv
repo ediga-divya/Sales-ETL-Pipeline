@@ -1,0 +1,7 @@
+sale_id,customer_id,product_id,sale_date,region,quantity,unit_price,discount,total_sales,customer_name,city,state,country,product_name,category,subcategory
+S001,C001,P001,2026-01-05,West,2,500,20,980,Divya,Union City,CA,USA,Laptop,Electronics,Computers
+S002,C002,P002,2026-01-07,East,1,1200,50,1150,Rahul,Dallas,TX,USA,Phone,Electronics,Mobile
+S003,C003,P003,2026-01-10,South,3,300,0,900,Anika,Seattle,WA,USA,Headphones,Electronics,Accessories
+S004,C001,P002,2026-01-15,West,1,1200,100,1100,Divya,Union City,CA,USA,Phone,Electronics,Mobile
+S005,C004,P004,2026-01-20,North,5,150,10,740,John,New York,NY,USA,Notebook,Stationery,Paper
+S006,C005,P001,2026-01-22,East,1,500,0,500,Sara,Chicago,IL,USA,Laptop,Electronics,Computers
